@@ -1,4 +1,4 @@
-# IP-FY
+# ipfindscan
 Gathers information about a Particular IP address.
 
 ## Installation
@@ -15,7 +15,7 @@ pip install requests
 python ipfy.py -t target_ip_address
 ```
 ## ScreenShot
-<img src="https://github.com/T4P4N/IP-FY/blob/master/Screenshot_2018-04-23-14-22-22-088_com.termux.png">>
+<img src="https://github.com/etoscenel/ipfy/blob/master/Screenshot_2018-04-23-14-22-22-088_com.termux.png">>
 ## Contribution
 If you want to contribute here just fork and open a pull request.
 if you have any suggestions to improve this project just open an issue.
